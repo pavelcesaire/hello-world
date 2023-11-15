@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+           h2{
+                color:maroon;
+               margin-left:30px;
+            }
+            body{
+              background-color: blue;
+
+            }
+           
+           
+        </style>
+    </head>
+    <body>
+        <h2 >this paragraph zill not be Affected </h2>
+         <h1> red and center-aligned paragraph.</h1>
+         <p > red and center.</p>
+         
+    </body>
+
+</html>
